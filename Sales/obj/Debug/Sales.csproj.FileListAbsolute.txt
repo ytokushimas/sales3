@@ -1,0 +1,14 @@
+C:\user\VSfile\Sales\Sales\obj\Debug\EditView.baml
+C:\user\VSfile\Sales\Sales\obj\Debug\ListView.baml
+C:\user\VSfile\Sales\Sales\obj\Debug\MainWindow.baml
+C:\user\VSfile\Sales\Sales\obj\Debug\App.baml
+C:\user\VSfile\Sales\Sales\obj\Debug\EditView.g.cs
+C:\user\VSfile\Sales\Sales\obj\Debug\ListView.g.cs
+C:\user\VSfile\Sales\Sales\obj\Debug\MainWindow.g.cs
+C:\user\VSfile\Sales\Sales\obj\Debug\App.g.cs
+C:\user\VSfile\Sales\Sales\obj\Debug\Sales_MarkupCompile.cache
+C:\user\VSfile\Sales\Sales\obj\Debug\Sales.g.resources
+C:\user\VSfile\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+C:\user\VSfile\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+C:\user\VSfile\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\user\VSfile\Sales\Sales\bin\Debug\Sales.exe.config
